@@ -29,4 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendeswashington&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mendeswashington" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mendeswashington&show_icons=true&locale=en&theme=dracula" alt="mendeswashington" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendeswashington&" alt="mendeswashington" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendeswashington&theme=dracula" alt="mendeswashington" /></p>
