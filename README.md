@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Opensource**
 
-- 👨‍💻 All of my projects are available at [mendesswashington](mendeswashington.github.io)
+- 👨‍💻 All of my projects are available at [mendesswashington](mendeswashington)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
