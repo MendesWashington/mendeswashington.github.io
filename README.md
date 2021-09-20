@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Opensource**
 
-- 👨‍💻 All of my projects are available at [mendesswashington](mendeswashington)
+- 👨‍💻 All of my projects are available at [mendesswashington](https://github.com/MendesWashington)
 
 <h3 align="left">Support:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendeswashington&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mendeswashington" /></p>
