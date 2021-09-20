@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Washington Santos</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
+- 🔭 I’m currently working on **Freelance**
+
+- 🤝 I’m looking for help with **Opensource**
+
+- 👨‍💻 All of my projects are available at [mendesswashington](mendeswashington)
+
 <h3 align="left">Support:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendeswashington&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mendeswashington" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mendeswashington&show_icons=true&locale=en&theme=dracula" alt="mendeswashington" /></p>
@@ -13,15 +19,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mendeswashington&label=Profile%20views&color=0e75b6&style=flat" alt="mendeswashington" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mendeswashington" alt="mendeswashington" /></a> </p>
-
-- 🔭 I’m currently working on **Freelance**
-
-- 🤝 I’m looking for help with **Opensource**
-
-- 👨‍💻 All of my projects are available at [mendesswashington](mendeswashington)
-
-
-
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
