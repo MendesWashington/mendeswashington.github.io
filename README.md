@@ -18,7 +18,7 @@
 
 <p align="left" margin="10px"> <img src="https://komarev.com/ghpvc/?username=mendeswashington&label=Profile%20views&color=0e75b6&style=flat" alt="mendeswashington" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mendeswashington" alt="mendeswashington" /></a> </p>
+<p align="left" margin="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mendeswashington" alt="mendeswashington" /></a> </p>
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
