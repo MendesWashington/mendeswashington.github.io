@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on **Full Stack**
 
+- 📎 I use daily `.js` `.ts`
+
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/washington-mendes-dos-santos-72b912181/)
+
 - 🤝 I’m looking for help with **Opensource**
 
 - 👨‍💻 All of my projects are available at [mendesswashington](https://github.com/MendesWashington)
