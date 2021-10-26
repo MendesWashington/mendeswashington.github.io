@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working as a **Full Stack**
 
-- 📎 I use daily `.js` `.ts`
+- 📎 I use daily `.js` `.tsx`  `.ts`
 
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/washington-mendes-dos-santos-72b912181/)
 
