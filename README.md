@@ -1,4 +1,4 @@
-# mendeswashington.github.io
+# mendesswashington.github.io
 
 <h1 align="center">Hi 👋, I'm Washington Santos</h1>
 <h3 align="center">A passionate fullstack developer typscript from Brazil</h3>
@@ -11,18 +11,18 @@
 
 - 🤝 I’m looking for help with **Opensource**
 
-- 👨‍💻 All of my projects are available at [mendesswashington](https://github.com/MendesWashington)
+- 👨‍💻 All of my projects are available at [mendesswashington](https://github.com/mendesswashington)
 
 <h3 align="left">Support:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendeswashington&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mendeswashington" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mendeswashington&show_icons=true&locale=en&theme=dracula" alt="mendeswashington" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendesswashington&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mendesswashington" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mendesswashington&show_icons=true&locale=en&theme=dracula" alt="mendesswashington" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendeswashington&theme=dracula" alt="mendeswashington" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendesswashington&theme=dracula" alt="mendesswashington" /></p>
 
 
-<p align="left" margin="10px"> <img src="https://komarev.com/ghpvc/?username=mendeswashington&label=Profile%20views&color=0e75b6&style=flat" alt="mendeswashington" /> </p>
+<p align="left" margin="10px"> <img src="https://komarev.com/ghpvc/?username=mendesswashington&label=Profile%20views&color=0e75b6&style=flat" alt="mendesswashington" /> </p>
 
-<p align="left" margin="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mendeswashington" alt="mendeswashington" /></a> </p>
+<p align="left" margin="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mendesswashington" alt="mendesswashington" /></a> </p>
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
